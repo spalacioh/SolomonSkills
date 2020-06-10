@@ -1,4 +1,4 @@
-## [Privacy Policy](https://github.com/spalacioh/SolomonSkills/blob/master/README.md)
+## [Privacy Policy](https://github.com/spalacioh/SolomonSkills/blob/master/PrivacyPolicy.md)
 **Solomon AI**  (refered to as "Service" going forward).
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
