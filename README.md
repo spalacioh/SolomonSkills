@@ -1,0 +1,2 @@
+# SolomonSkills
+Solomon Skills Details
